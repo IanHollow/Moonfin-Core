@@ -1,0 +1,15 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sign,Noto Sans,64,&H000040FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,1,8,80,80,80,1
+Style: Dialogue,Noto Sans,52,&H0000FFFF,&H000000FF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,4,1,2,80,80,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:12.00,Sign,,0,0,0,,SYNTHETIC SIGN: NORTH PLATFORM
+Dialogue: 1,0:00:00.00,0:00:12.00,Dialogue,,0,0,0,,Authored outline, italic dialogue.\NNo copyrighted video or dialogue.
